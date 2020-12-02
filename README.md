@@ -1,3 +1,9 @@
+这个库需要经过配置才能使用，坑非常多。
+
+https://blog.csdn.net/Kwansy/article/details/110457212
+
+
+
 # Windows-Research-Kernel-WRK-
 Windows Research Kernel Source Code
 
